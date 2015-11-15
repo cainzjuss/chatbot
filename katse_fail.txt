@@ -1,0 +1,1 @@
+katsetan kas lihtsalt faili lisamine kausta ja siis syncimine töötab
